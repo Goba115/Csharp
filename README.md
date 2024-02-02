@@ -1,2 +1,3 @@
-# Csharp
-Enostavni C# projekti
+#projekt \<visual studio code\>;
+
+//Enostavni C# projekti 
